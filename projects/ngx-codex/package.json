@@ -1,0 +1,16 @@
+{
+  "name": "ngx-codex",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3v0ps/ngx-codex"
+  },
+  "homepage": "https://d3v0ps.github.io/ngx-codex",
+  "peerDependencies": {
+    "@angular/common": "^9.1.0",
+    "@angular/core": "^9.1.0",
+    "tslib": "^1.10.0",
+    "@editorjs/editorjs": "^2.17.0"
+  }
+}
