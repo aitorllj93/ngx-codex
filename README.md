@@ -4,6 +4,8 @@ Angular [editor.js](https://editorjs.io/) component with ControlValueAccesorTool
 
 Implements `ControlValueAccesor`.
 
+[Demo](https://d3v0ps.github.io/ngx-codex)
+
 ## Getting Started
 
 ### 1. Install packages
