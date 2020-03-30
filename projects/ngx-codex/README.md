@@ -1,5 +1,7 @@
 # ngx-codex
 
+[![npm](https://img.shields.io/npm/v/ngx-codex)](https://www.npmjs.com/package/ngx-codex)
+
 Angular [editor.js](https://editorjs.io/) component with ControlValueAccesorTool Support.
 
 Implements `ControlValueAccesor`.
